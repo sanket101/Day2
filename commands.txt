@@ -1,0 +1,135 @@
+    1  git-ver
+    2  git-version
+    3  git--version
+    4  git version
+    5  clear
+    6  git version
+    7  git status
+    8  clear
+    9  ls
+   10  dir
+   11  clear
+   12  ls -all
+   13  ls -all
+   14  git init
+   15  ls -all
+   16  git config --global user.name Akash
+   17  git config --global list
+   18  git config --list
+   19  git config --global --list
+   20  git config --global user.email akashbpatil204@gmail.com
+   21  touch a.txt
+   22  ls
+   23  git status
+   24  git add a.txt
+   25  git status
+   26  git commit -m"Initial Commit"
+   27  git status
+   28  touch b.txt
+   29  git status
+   30  git add b,txt
+   31  git status
+   32  git add b.txt
+   33  git status
+   34  git commit -m"Initial Commit"
+   35  git status
+   36  ls
+   37  git status
+   38  git log
+   39  cd .git
+   40  ls
+   41  cd objects
+   42  ls
+   43  cd 26
+   44  ls
+   45  cat 65c39e3dc7854323e35d4ec2701078630677d3 
+   46  cd
+   47  ls
+   48  cat 65c39e3dc7854323e35d4ec2701078630677d3 
+   49  cd .git
+   50  git log
+   51  cd .git
+   52  git log
+   53  ls
+   54  cd..
+   55  ls
+   56  clear
+   57  git status
+   58  git checkout --a.txt
+   59  clear
+   60  git status
+   61  git checkout -- a.txt
+   62  git status
+   63  git status
+   64  git add a.txt
+   65  git status
+   66  git reset HEAD a.txt
+   67  git status
+   68  git commit -a a.txt
+   69  git commit -am"commited" 
+   70  git status
+   71  git status
+   72  git add b.txt
+   73  git status
+   74  git reset HEAD b.txt
+   75  git status
+   76  git checkout -- b.txt
+   77  git status
+   78  git status
+   79  git commit -am"Done"
+   80  git log
+   81  git log --oneline
+   82  git status
+   83  git checkout master
+   84  git log --oneline
+   85  git status
+   86  git commit -am"c1"
+   87  git status
+   88  git log --oneline
+   89  git status
+   90  git commit -am"c2"
+   91  git log --oneline
+   92  git checkout 6f
+   93  git checkout 6f8f
+   94  git log --oneline
+   95  git checkout master
+   96  git log --oneline
+   97  git add a.txt
+   98  git commit -m"c4"
+   99  git log -oneline
+  100  git log --oneline
+  101  git checkout 65ca
+  102  git checkout master
+  103  git remote add origin https://github.com/akashbpatil204-1/GitLearning.git
+  104  git push origin master
+  105  git push -u origin master
+  106  git push -u origin master
+  107  git remote add origin git@github.com:akashbpatil204-1/GitLearning.git
+  108  git remote addremoveigin git remote add origin git@github.com:akashbpatil204-1/GitLearning.git
+  109  git remote admoveig orin 
+  110  git remote admoveig orin 
+  111  cd..
+  112  git remote add origin git@github.com:akashbpatil204-1/GitLearning.git
+  113  git remote add origin1 git@github.com:akashbpatil204-1/GitLearning.git
+  114  git push -u origin1 master
+  115  git push origin1 master
+  116  git remote add origin https://github.com/akashbpatil204-1/d.git
+  117  git remote remove origin https://github.com/akashbpatil204-1/d.git
+  118  git remote add origin https://github.com/akashbpatil204-1/d.git
+  119  git remote add origin1 https://github.com/akashbpatil204-1/d.git
+  120  git remote add origin2 https://github.com/akashbpatil204-1/d.git
+  121  git push origin2 master
+  122  notepad id_rsa.pub
+  123  cd
+  124  notepad id_rsa.pub
+  125  touch c.txt
+  126  git status
+  127  git add c.txt
+  128  git status
+  129  git status
+  130  git commit -m"c4"
+  131  git push origin2 master
+  132  git remote remove origin https://github.com/akashbpatil204-1/d.git
+  133  git remote remove origin
+  134  git remote remove origin1
+  135  history > commands.txt 
